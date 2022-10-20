@@ -1,5 +1,5 @@
 # Byte-compiled / optimized / DLL files
-DS_Store
+.DS_Store
 K-means clustering and PCA/mnist.csv
 **/mnist.csv
 
