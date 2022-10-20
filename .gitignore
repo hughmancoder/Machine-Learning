@@ -1,5 +1,7 @@
 # Byte-compiled / optimized / DLL files
 DS_Store
+K-means clustering and PCA/mnist.csv
+**/mnist.csv
 
 __pycache__/
 *.py[cod]
